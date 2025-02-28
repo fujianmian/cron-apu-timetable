@@ -1,4 +1,4 @@
-name: your actions name
+name: fujianmian timetable sync
 
 on:
   schedule:
